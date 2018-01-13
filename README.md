@@ -2,6 +2,13 @@
 
 A command line utility that generates .net files that describe circuits for LED stips based on the APA10x-style architecture.
 
+#Installation
+
+Install `skidl` from pip:
+
+`python -m pip install skidl`
+
+
 # Example Usage
 
 Make an LED stip 5 LEDs long named `strip.net`
